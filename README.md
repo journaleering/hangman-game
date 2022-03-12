@@ -7,4 +7,4 @@ To play the game just donwload the files and run 'GalgenmannSpiel'.
 - open the Terminal
 - navigate to the hangman-game folder using 'cd'
 - list all files with the command 'ls'
-- run java GalgenmannSpiel
+- run 'java GalgenmannSpiel'
